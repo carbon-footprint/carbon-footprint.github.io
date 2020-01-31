@@ -5,7 +5,8 @@
 layout: home
 ---
 
-Here we are posting updates our journey on the train from Melbourne to Brisbane to attend the conference [ICONN2020](https://www.iconn2020.com).
+On this page we will post updates on our rail travel from Melbourne to Brisbane!
+We are travelling to Brisbane to attend [ICONN 2020](https://www.iconn2020.com) - International Conference on Nanoscience and Nanotechnology (9--13 February 2020).
 
 <center>
 <img src="assets/emissions.png" alt="Figure showing the carbon dioxide emissions for car, train, and plane travel from Melbourne to Brisbane" width="500"/>
