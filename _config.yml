@@ -16,7 +16,7 @@
 title: Carbon Footprint
 email: carbonfootprint@fastmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Keeping track of the carbon footprint of our travel. 
+  Keeping track of the carbon footprint of our intercity travel in Australia.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://carbon-footprint.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  carbon-footprint
