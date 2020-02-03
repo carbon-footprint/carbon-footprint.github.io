@@ -20,7 +20,7 @@ The distance between Melbourne and Brisbane in Australia is:
 
 ## Car
 
-Our model for an automobile is a 2012 Mazda 2.
+Our model for a car is a 2012 Mazda 2.
 * The car has a maximum of five passengers
   [[ref.]](https://en.wikipedia.org/wiki/Mazda_Demio#Third_generation_(DE;_2007%E2%80%932014))
 * The car uses 4.8 L of petrol per 100 km when driving on a freeway
@@ -30,18 +30,18 @@ Our model for an automobile is a 2012 Mazda 2.
 
 ## Train
 
-We take the average consumption of diesel passenger trains in the UK for our model of a locomotive.
+Our model for a train is the average fuel consumption of diesel locomotives carrying passengers in the United Kingdom.
 
-* A New South Wales XPT can carry at least 200 passengers
+* A New South Wales Express Passenger Train can carry at least 200 passengers
   [[ref.]](https://transportnsw.info/regional/regional-train-coach-facilities/xpt-regional-trains)
-* The train will use 51.9 L of diesel per 100 km
+* The train uses 51.9 L of diesel per 100 km
   [[ref.]](https://ora.ox.ac.uk/objects/uuid:cd7d3eb7-e57c-427d-9ec6-70da72389cce/download_file?safe_filename=Are%2Brailways%2Bclimate%2Bfriendly%2B-%2BGivoni%2BBrand%2BWatkiss%2B-%2Baccepted%2Bmanuscript.pdf&file_format=application%2Fpdf&type_of_work=Journal+article)
-* Burning one liter of diesel creates 2.24 kg of CO<sub>2</sub>
+* Burning one litre of diesel creates 2.24 kg of CO<sub>2</sub>
   [[ref.]](https://www.eia.gov/environment/emissions/co2_vol_mass.php)
 
 ## Plane
 
-Our model for an aeroplane is a Boeing 737 Max 8.
+Our model for a plane is a Boeing 737 Max 8.
 * The plane has a seating capacity of 166 passengers 
   [[ref.]](https://web.archive.org/web/20160206082857/http://airwaysnews.com/blog/2016/02/05/a320neo-vs-737-max-pt-ii/)
 * The plane uses 454 L of jet fuel per 100 km
