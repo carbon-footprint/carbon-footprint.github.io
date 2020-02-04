@@ -49,3 +49,7 @@ Our model for a plane is a Boeing 737 Max 8.
 * Burning one litre of jet fuel creates 2.11 kg of CO<sub>2</sub> 
   [[ref.]](https://www.eia.gov/environment/emissions/co2_vol_mass.php)
 
+## Disclaimer
+
+We understand that the effects of the different modes of transport on the climate are more complex than thissimple calculation.
+This work is simply to provide a first order estimate of the carbon dioxide emissions.
