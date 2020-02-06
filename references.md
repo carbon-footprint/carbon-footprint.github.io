@@ -51,5 +51,5 @@ Our model for a plane is a Boeing 737 Max 8.
 
 ## Disclaimer
 
-We understand that the effects of the different modes of transport on the climate are more complex than thissimple calculation.
-This work is simply to provide a first order estimate of the carbon dioxide emissions.
+We understand that the effects of the different modes of transport on the climate are more complex than this simple calculation.
+This work provides a first order estimate of the carbon dioxide emissions.
