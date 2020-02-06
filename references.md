@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data and references
+title: Data and References
 permalink: /references/
 ---
 
