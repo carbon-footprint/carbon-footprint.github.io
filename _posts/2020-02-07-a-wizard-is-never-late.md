@@ -24,7 +24,7 @@ By far our favourite response from our devoted readers so far has been the follo
 
 <br>
 <center>
-<img src="https://i.giphy.com/media/ONostKY8aj8bK/giphy.webp" alt="New South Wales landscape" width="500"/>
+<img src="https://media.giphy.com/media/ONostKY8aj8bK/source.gif" alt="Fly you fools GIF" width="500"/>
 </center>
 <br>
 
