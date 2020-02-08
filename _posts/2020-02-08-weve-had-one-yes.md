@@ -32,10 +32,10 @@ Our second breakfast was close to our morning destination, the Art Gallery of NS
 What a fantastic collection!
 Rooms and rooms of illustrations depicting the many and varied supernatural creatures of Japanese folklore -- the monsters collectively known as [Yōkai](https://en.wikipedia.org/wiki/Y%C5%8Dkai).
 
-We learned about the princess who was whisked away to a dimension of hell, where she was imprisoned by a demon.
-Growing old in its dungeon, she was stumbled upon by a wayward warrior who stole her arm, as proof of his discovery.
-Returning to the physical world, now as a demon herself she wins an interview with the warrior and persuades him to show her the rotten arm by appealing to his vanity.
-As soon as it is produced she snatches it up and runs away, reunited with her erstwhile limb at long last!
+We learned about the princess who was whisked away to a dimension of hell and imprisoned by a demon.
+Growing old in its dungeon, she is stumbled upon by a wayward warrior who steals her arm as proof of his discovery.
+Returning to the physical world, now as a demon herself, she wins an interview with the warrior and persuades him to show her the rotten arm by appealing to his vanity.
+As soon as it is produced she snatches it up and runs away, reunited with her erstwhile limb at last!
 
 Another tale tells of a racoon-dog demon who, taking pity upon a woodcutter, turns itself into a teapot for his use.
 After a time the teapot comes into possession of a monk who carefully and regularly polishes and cleans it.
@@ -48,7 +48,7 @@ The demon doens't much like being cleaned though and -- to the monk's surprise -
 <br/>
 
 There really were too many fantastical stories to recall them all.
-After taking everything in at the gallery we set out in search of lunch at Circular Quay and by chance ran into a colleage from Sydney!
+After taking everything in at the gallery we set out in search of lunch at Circular Quay and by chance ran into a colleague from Sydney!
 
 "Any recommendations for lunch nearby?"<br/>
 "No, not around here. It's not like Melbourne where you can get good food on every street corner."
