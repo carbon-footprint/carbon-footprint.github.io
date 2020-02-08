@@ -12,7 +12,7 @@ published: true
 
 <br/>
 
-[Departure from Brisbane: 2:44 p.m.]
+[Departure from Sydney: 2:44 p.m.]
 
 <br/>
 
@@ -34,8 +34,8 @@ Rooms and rooms of illustrations depicting the many and varied supernatural crea
 
 We learned about the princess who was whisked away to a dimension of hell, where she was imprisoned by a demon.
 Growing old in its dungeon, she was stumbled upon by a wayward warrior who stole her arm, as proof of his discovery.
-Returning to the physical world, now as a demon herself, she wins an interview with the warrior and persuades him to show her the rotten arm by appealing to his vanity.
-As soon as it is produced, she snatches it up and runs away, reunited with her erstwhile limb at long last!
+Returning to the physical world, now as a demon herself she wins an interview with the warrior and persuades him to show her the rotten arm by appealing to his vanity.
+As soon as it is produced she snatches it up and runs away, reunited with her erstwhile limb at long last!
 
 Another tale tells of a racoon-dog demon who, taking pity upon a woodcutter, turns itself into a teapot for his use.
 After a time the teapot comes into possession of a monk who carefully and regularly polishes and cleans it.
@@ -55,7 +55,7 @@ After taking everything in at the gallery we set out in search of lunch at Circu
 
 Indeed, it is not.
 
-A brief ride on Sydney's new light rail takes us back to our accomodation to collect our bags and a short walk to the station in the pouring rain leaves us quite damp while we wait for the train service to Brisbane.
+A brief ride on Sydney's new light rail takes us back to our accommodation to collect our bags and a short walk to the station in the pouring rain leaves us quite damp while we wait for the train service to Brisbane.
 
 And so it is with a mind full of fantasy and wonder that we say farewell to this drizzly state capital and its colonial architecture.
 Stay tuned.
