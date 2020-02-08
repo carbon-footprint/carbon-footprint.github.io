@@ -32,7 +32,7 @@ Keep the comments coming!
 
 In the end we arrvied in Sydney about 90 minutes late after delays due to signalling and weather.
 Though the landscape on the way was often brown and dry, Sydney is wet.
-Today there was 60 mm of rainfall and tomorrow 120 to 200 mmm of rain is expected to fall over the city.
+Today there was 60 mm of rainfall and tomorrow 120 to 200 mm of rain is expected to fall over the city.
 
 <br/>
 <center>
