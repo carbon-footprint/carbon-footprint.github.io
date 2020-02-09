@@ -63,3 +63,9 @@ If we'd taken the plane, we'd probably only have seen flight attendants and an e
 On our travels we've met a broad range of characters.
 And it is a melancholy truth that we can't tell all their stories.
 
+<br/>
+<center>
+<img src="../../../../assets/photos/20200208_station.jpg" alt="Central Station" width="500"/>
+</center>
+<br/>
+
