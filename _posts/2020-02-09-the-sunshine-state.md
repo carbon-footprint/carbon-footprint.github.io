@@ -23,7 +23,7 @@ Managing to get some Zs on the train, we wake up as the carriages rattle through
 It is pitch black on Roma Street at 4 a.m. as we walk out of the station.
 Up and down the street, there's not another a soul to be seen.
 No cabs either, it seems.
-We go for a walk in seach of a taxi, picking a likely corner not far from the station, and soon land a big ol' fish: the maxi-cab.
+We go for a walk in search of a taxi, picking a likely corner not far from the station, and soon land a big ol' fish: the maxi-cab.
 Before we know it we're speeding towards our accommodation in Brisbane's West End and fumbling with the keys to our apartment.
 Luggage dumped at the door, we hit the hay and go back to sleep.
 The last thing we hear is the birdsong welcoming in the dawn.
@@ -32,7 +32,7 @@ It's mid-morning now and we're off to breakfast.
 We find a cafe close to the river that has plant-based meals.
 The Sunshine State welcomes us into its loving arms with a torrential downpour!
 Our shoes are soaked through as we squelch into the cafe and sit down to eat.
-An aprocyphal quote from Albert Einstein frames the menu.
+An apocryphal quote from Albert Einstein frames the menu.
 There's also the word *Decaf* listed specifically on the menu, and no shortage of panic as it's found to taste indistinguishable from ordinary coffee.
 Later on, while paying at the counter...
 
